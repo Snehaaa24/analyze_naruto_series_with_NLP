@@ -12,7 +12,3 @@ In this project, we have created 4 models, each containing the code for a differ
 
 **theme_classifier**: This folder contains the code for extracting the main themes of the series using Zero-shot classifiers.
 
-## Requirements
-Before running the code in this project, make sure you have installed all packages in the requirements.txt by running
-
-```pip install -r requirements.txt```
